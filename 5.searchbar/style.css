@@ -1,0 +1,42 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #search-input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #search-btn {
+    width: 20%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .product {
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .product img {
+    width: 100%;
+  }
+  
+  .product-name {
+    margin-top: 20px;
+    font-size: 18px;
+  }
