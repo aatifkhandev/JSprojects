@@ -1,6 +1,6 @@
 1. **Counter:**
    A simple counter application that allows users to increment or decrement a numerical value. Useful for tracking counts or creating basic tally systems.
-
+  Counter(https://github.com/Mohd-Aatif-Khan/JSprojects/tree/main/1.counter)
 
 2. **Todo List:**
    An interactive to-do list application that enables users to add, remove, and mark tasks as completed. Organize your daily tasks efficiently with this intuitive and user-friendly tool.
